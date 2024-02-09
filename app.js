@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(`Example practice app listening on port ${port}`)
 })
 // app.use('/', indexRouter);
 // app.use('/users', usersRouter);
